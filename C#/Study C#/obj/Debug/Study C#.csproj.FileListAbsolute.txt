@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\소프트웨어공학\C#\Study C#\bin\Debug\Study C#.exe.config
+C:\Users\user\Desktop\소프트웨어공학\C#\Study C#\bin\Debug\Study C#.exe
+C:\Users\user\Desktop\소프트웨어공학\C#\Study C#\bin\Debug\Study C#.pdb
+C:\Users\user\Desktop\소프트웨어공학\C#\Study C#\obj\Debug\Study C#.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\소프트웨어공학\C#\Study C#\obj\Debug\Study C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\소프트웨어공학\C#\Study C#\obj\Debug\Study C#.exe
+C:\Users\user\Desktop\소프트웨어공학\C#\Study C#\obj\Debug\Study C#.pdb
