@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\소프트웨어공학\C#\20260410\bin\Debug\20260410.exe.config
+C:\Users\user\Desktop\소프트웨어공학\C#\20260410\bin\Debug\20260410.exe
+C:\Users\user\Desktop\소프트웨어공학\C#\20260410\bin\Debug\20260410.pdb
+C:\Users\user\Desktop\소프트웨어공학\C#\20260410\obj\Debug\20260410.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\소프트웨어공학\C#\20260410\obj\Debug\20260410.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\소프트웨어공학\C#\20260410\obj\Debug\20260410.exe
+C:\Users\user\Desktop\소프트웨어공학\C#\20260410\obj\Debug\20260410.pdb
+C:\Users\user\Desktop\서준원 폴더\소프트웨어공학\C#\20260410\bin\Debug\20260410.exe.config
+C:\Users\user\Desktop\서준원 폴더\소프트웨어공학\C#\20260410\bin\Debug\20260410.exe
+C:\Users\user\Desktop\서준원 폴더\소프트웨어공학\C#\20260410\bin\Debug\20260410.pdb
+C:\Users\user\Desktop\서준원 폴더\소프트웨어공학\C#\20260410\obj\Debug\20260410.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\서준원 폴더\소프트웨어공학\C#\20260410\obj\Debug\20260410.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\서준원 폴더\소프트웨어공학\C#\20260410\obj\Debug\20260410.exe
+C:\Users\user\Desktop\서준원 폴더\소프트웨어공학\C#\20260410\obj\Debug\20260410.pdb
