@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sjwni\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Software-Engineering\\C#\\Study C#\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\Study C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35405EA6-3C95-42FB-B335-C30DA60B6B57}|Study C#.csproj|c:\\users\\sjwni\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\software-engineering\\c#\\study c#\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35405EA6-3C95-42FB-B335-C30DA60B6B57}|Study C#.csproj|C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\Study C#\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35405EA6-3C95-42FB-B335-C30DA60B6B57}|Study C#.csproj|solutionrelative:control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35405EA6-3C95-42FB-B335-C30DA60B6B57}|Study C#.csproj|c:\\users\\user\\desktop\\software-engineering\\c#\\study c#\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35405EA6-3C95-42FB-B335-C30DA60B6B57}|Study C#.csproj|solutionrelative:function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35405EA6-3C95-42FB-B335-C30DA60B6B57}|Study C#.csproj|c:\\users\\sjwni\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\software-engineering\\c#\\study c#\\control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35405EA6-3C95-42FB-B335-C30DA60B6B57}|Study C#.csproj|solutionrelative:control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35405EA6-3C95-42FB-B335-C30DA60B6B57}|Study C#.csproj|c:\\users\\user\\desktop\\software-engineering\\c#\\study c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35405EA6-3C95-42FB-B335-C30DA60B6B57}|Study C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,34 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\Study C#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\Study C#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T01:32:25.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Function.cs",
-              "DocumentMoniker": "C:\\Users\\sjwni\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Software-Engineering\\C#\\Study C#\\Function.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\Study C#\\Function.cs",
               "RelativeDocumentMoniker": "Function.cs",
-              "ToolTip": "C:\\Users\\sjwni\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Software-Engineering\\C#\\Study C#\\Function.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\Study C#\\Function.cs",
               "RelativeToolTip": "Function.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAUwCEAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwCEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T12:48:23.669Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Control.cs",
-              "DocumentMoniker": "C:\\Users\\sjwni\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Software-Engineering\\C#\\Study C#\\Control.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\Study C#\\Control.cs",
               "RelativeDocumentMoniker": "Control.cs",
-              "ToolTip": "C:\\Users\\sjwni\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Software-Engineering\\C#\\Study C#\\Control.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\Study C#\\Control.cs",
               "RelativeToolTip": "Control.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T12:48:15.078Z",
               "EditorCaption": ""
