@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\AddressBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{979200D8-2B79-4AF8-A31C-95BA1D6EE98B}|AddressBook.csproj|C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\AddressBook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{979200D8-2B79-4AF8-A31C-95BA1D6EE98B}|AddressBook.csproj|c:\\users\\user\\desktop\\software-engineering\\c#\\addressbook\\findnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{979200D8-2B79-4AF8-A31C-95BA1D6EE98B}|AddressBook.csproj|solutionrelative:findnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979200D8-2B79-4AF8-A31C-95BA1D6EE98B}|AddressBook.csproj|c:\\users\\user\\desktop\\software-engineering\\c#\\addressbook\\findnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979200D8-2B79-4AF8-A31C-95BA1D6EE98B}|AddressBook.csproj|solutionrelative:findnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979200D8-2B79-4AF8-A31C-95BA1D6EE98B}|AddressBook.csproj|c:\\users\\user\\desktop\\software-engineering\\c#\\addressbook\\findnumber.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979200D8-2B79-4AF8-A31C-95BA1D6EE98B}|AddressBook.csproj|solutionrelative:findnumber.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979200D8-2B79-4AF8-A31C-95BA1D6EE98B}|AddressBook.csproj|c:\\users\\user\\desktop\\software-engineering\\c#\\addressbook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{979200D8-2B79-4AF8-A31C-95BA1D6EE98B}|AddressBook.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979200D8-2B79-4AF8-A31C-95BA1D6EE98B}|AddressBook.csproj|c:\\users\\user\\desktop\\software-engineering\\c#\\addressbook\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{979200D8-2B79-4AF8-A31C-95BA1D6EE98B}|AddressBook.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{979200D8-2B79-4AF8-A31C-95BA1D6EE98B}|AddressBook.csproj|C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\AddressBook\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{979200D8-2B79-4AF8-A31C-95BA1D6EE98B}|AddressBook.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{979200D8-2B79-4AF8-A31C-95BA1D6EE98B}|AddressBook.csproj|c:\\users\\user\\desktop\\software-engineering\\c#\\addressbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{979200D8-2B79-4AF8-A31C-95BA1D6EE98B}|AddressBook.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +38,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindNumber.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\AddressBook\\FindNumber.cs",
+              "RelativeDocumentMoniker": "FindNumber.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\AddressBook\\FindNumber.cs*",
+              "RelativeToolTip": "FindNumber.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:57:27.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FindNumber.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\AddressBook\\FindNumber.Designer.cs",
+              "RelativeDocumentMoniker": "FindNumber.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\AddressBook\\FindNumber.Designer.cs",
+              "RelativeToolTip": "FindNumber.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:56:34.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculator.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\AddressBook\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\AddressBook\\Calculator.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Calculator.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:47:20.71Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FindNumber.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\AddressBook\\FindNumber.cs",
+              "RelativeDocumentMoniker": "FindNumber.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\AddressBook\\FindNumber.cs [\uB514\uC790\uC778]*",
+              "RelativeToolTip": "FindNumber.cs [\uB514\uC790\uC778]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:40:19.703Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\AddressBook\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\AddressBook\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAADwv2IAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAJMAAAAAAAAAAAA3wK4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T00:49:23.785Z",
+              "WhenOpened": "2026-05-19T01:27:07.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\AddressBook\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\AddressBook\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:41:34.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Software-Engineering\\C#\\AddressBook\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

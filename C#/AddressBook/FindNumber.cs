@@ -6,14 +6,14 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
-namespace _20260508_WinForm
+namespace AddressBook
 {
-    public partial class Form2 : Form
+    public partial class FindNumber : Form
     {
         private int findNum = 0;
         private int chance = 0;
 
-        public Form2()
+        public FindNumber()
         {
             InitializeComponent();
         }
@@ -37,7 +37,8 @@ namespace _20260508_WinForm
         {
             if (e.KeyCode == Keys.Enter)
             {
-                try {
+                try
+                {
                     int inputNum = Int32.Parse(textBoxNum.Text);
 
                     textBoxNum.Text = null;
@@ -67,10 +68,10 @@ namespace _20260508_WinForm
                         btnStart.Enabled = true;
                     }
                 }
-                catch(System.FormatException)
+                catch (System.FormatException)
                 {
                     display.Text = $"숫자만 입력해주세요 남은기회 : {chance}회";
-                }          
+                }
             }
         }
 

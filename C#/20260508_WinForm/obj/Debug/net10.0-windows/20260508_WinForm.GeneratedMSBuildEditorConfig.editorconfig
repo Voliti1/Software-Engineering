@@ -14,6 +14,7 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EntryPointFilePath = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _20260508_WinForm
 build_property.ProjectDir = C:\Users\user\Desktop\Software-Engineering\C#\20260508_WinForm\

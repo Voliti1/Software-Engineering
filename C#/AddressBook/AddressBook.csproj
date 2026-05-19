@@ -107,6 +107,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Calculator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calculator.Designer.cs">
+      <DependentUpon>Calculator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindNumber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FindNumber.Designer.cs">
+      <DependentUpon>FindNumber.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -115,6 +127,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Calculator.resx">
+      <DependentUpon>Calculator.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
